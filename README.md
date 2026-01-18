@@ -28,5 +28,5 @@
  
 <p align="left">
 📈 Contribution Graph
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=initdotd&bg_color=ffffff00&color=000000&line=000000&point=000000&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=initdotd&bg_color=ffffff00&color=000000&line=000000&point=000000&hide_border=true&hide_title=true" />
 </p>
