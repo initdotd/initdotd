@@ -20,8 +20,3 @@
   <img src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" />
   <img src="https://img.shields.io/badge/OpenAI-000000?style=for-the-badge&logo=openai&logoColor=white" />
 </p>
-
-
-<p align="left">
-    <img height="165" src="https://github-readme-stats.vercel.app/api?username=initdotd&show_icons=true&hide_title=true&hide_rank=false" />
-</p>
