@@ -6,6 +6,7 @@
   </a>
   <img src="https://img.shields.io/github/followers/initdotd?style=for-the-badge" />
   <img src="https://img.shields.io/github/stars/initdotd?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Public%20Repos-📦-blue?style=for-the-badge" />
 </p>
 
 ### 🧰 Tech Stack
